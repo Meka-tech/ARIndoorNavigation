@@ -14,6 +14,7 @@ Companion software and interface assets for the research paper:
 This project builds on [FireDragonGameStudio/ARIndoorNavigation](https://github.com/FireDragonGameStudio/ARIndoorNavigation) (MIT, Copyright (c) 2018 Markus Altenhofer). See [Acknowledgements](#7-acknowledgements).
 
 ---
+<img height="400" alt="S4" src="https://github.com/user-attachments/assets/d393d04b-adb8-4ce9-a22a-0c5b24f05db8" />
 
 ## 1. System Overview
 
